@@ -41,7 +41,7 @@ The lab demonstrates a MATLAB program to simulate a communication system. Key co
    - Re-run the simulation and analyze the results.  
 
 3. **Task 3: Signal Addition and Separation**  
-   - Add signals \(m(t) = \exp(-100|t|)\) and \(c(t) = \cos(2\pi \cdot 10^3 t)\).  
+   - Add signals m(t) = e^(-100|t|) , c(t) = cos(2π × 10³ × t)
    - Separate them using LPF and Band Pass Filter (BPF).  
    - Provide the MATLAB code and plots showing:  
      - The combined signal in time and frequency domains.  
