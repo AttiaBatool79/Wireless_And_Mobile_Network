@@ -35,7 +35,9 @@ The lab demonstrates a MATLAB program to simulate a communication system. Key co
 
 2. **Task 2: Parameter Modification**  
    - Modify the signals and parameters as follows:  
-     - Change `m(t)` to \(2 + \sin(2\pi \cdot 1000t)\).  
+     - Change  `m(t)` to 2 + sin(2π × 1000 × t).  
+     - Change  `c(t)` to cos(2π × 10⁴ × t).
+
      - Change `c(t)` to \(\cos(2\pi \cdot 10^4 t)\).  
      - Set the cutoff frequency of the filter to 2 kHz.  
    - Re-run the simulation and analyze the results.  
