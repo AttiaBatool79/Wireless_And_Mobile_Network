@@ -37,8 +37,6 @@ The lab demonstrates a MATLAB program to simulate a communication system. Key co
    - Modify the signals and parameters as follows:  
      - Change  `m(t)` to 2 + sin(2π × 1000 × t).  
      - Change  `c(t)` to cos(2π × 10⁴ × t).
-
-     - Change `c(t)` to \(\cos(2\pi \cdot 10^4 t)\).  
      - Set the cutoff frequency of the filter to 2 kHz.  
    - Re-run the simulation and analyze the results.  
 
@@ -56,4 +54,5 @@ The lab demonstrates a MATLAB program to simulate a communication system. Key co
 2. Clone this repository:  
    ```bash
    git clone https://github.com/AttiaBatool79/Wireless_And_Mobile_Network.git
+   cd Wireless_And_Mobile_Network
 
