@@ -1,9 +1,5 @@
 # Lab 2: Simulation of Communication Systems Using MATLAB  
-**University of Engineering and Technology, Taxila**  
-**Faculty of Telecommunication and Information Engineering**  
-**Computer Engineering Department**  
-
-## Overview  
+ 
 This repository contains the resources and implementation for **Lab 2: Simulation of Communication Systems** in the context of **Wireless and Mobile Networks**. The lab demonstrates the simulation of basic communication systems using MATLAB, focusing on signal generation, manipulation, and analysis.  
 
 ---
@@ -57,5 +53,5 @@ The lab demonstrates a MATLAB program to simulate a communication system. Key co
 1. Install MATLAB (version 2019 or later recommended).  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/WMN.git
+   git clone https://github.com/AttiaBatool79/Wireless_And_Mobile_Network.git
 
