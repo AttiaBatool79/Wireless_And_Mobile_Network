@@ -1,6 +1,6 @@
 # Communication System Simulation - Task 01
 
-This project simulates how signals are processed in a communication system using MATLAB. It demonstrates key steps such as signal modulation, rectification, filtering, and frequency analysis. The output includes visual graphs showing how signals are transformed at each stage.
+This task simulates how signals are processed in a communication system using MATLAB. It demonstrates key steps such as signal modulation, rectification, filtering, and frequency analysis. The output includes visual graphs showing how signals are transformed at each stage.
 
 ---
 
