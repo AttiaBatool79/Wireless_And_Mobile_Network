@@ -50,11 +50,11 @@ This process is essential in:
 
 ## Output Explanation
 
-### Graph 1: Input vs. Output Signal  
+### Figure 01: Input vs. Output Signal  
 - **Input Signal:** The original message signal.  
 - **Output Signal:** The filtered signal, showing the cleaned-up version of the transmitted data.
 
-### Graph 2: Frequency Spectra  
+### Figure 02: Frequency Spectra  
 1. **Message Signal Spectrum:** Shows the frequency components of the original message.  
 2. **Modulated Signal Spectrum:** Shows how the carrier and message signals combine.  
 3. **Rectified Signal Spectrum:** Highlights the effect of rectification on the signal's frequency.  
