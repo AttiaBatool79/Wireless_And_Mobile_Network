@@ -4,6 +4,21 @@ This project simulates how signals are processed in a communication system using
 
 ---
 
+## Table of Contents
+1. [Introduction](#introduction)  
+2. [Overview of the Process](#overview-of-the-process)  
+   - [1. Time Definition](#1-time-definition)  
+   - [2. Message Signal (`m`)](#2-message-signal-m)  
+   - [3. Carrier Signal (`c`)](#3-carrier-signal-c)  
+   - [4. Modulation](#4-modulation)  
+   - [5. Rectification](#5-rectification)  
+   - [6. Filtering](#6-filtering)  
+3. [Real-Life Applications](#real-life-applications)  
+4. [Output Explanation](#output-explanation)  
+5. [Summary](#summary)  
+
+---
+
 ## Introduction
 
 In real-life communication systems, like radios or mobile phones, signals are processed to send and receive information effectively. This involves modulating the original message with a carrier signal, processing it, and then filtering out unwanted noise for clear transmission.
@@ -65,4 +80,3 @@ This process is essential in:
 ## Summary
 
 This simulation provides a basic understanding of how communication systems process and transmit signals. By visualizing each step, we can see how raw data transforms into a clear, usable signal, similar to what happens in real-life systems like radios or mobile networks.
-
