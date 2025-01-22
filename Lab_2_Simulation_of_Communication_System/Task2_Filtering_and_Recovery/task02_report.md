@@ -2,6 +2,25 @@
 
 This task demonstrates the filtering and recovery of components from a combined signal. The script uses MATLAB to separate two components of a signal: a modulated signal `m(t)` and a carrier signal `c(t)`, using low-pass and band-pass filters.
 
+# Table of Contents
+
+1. [Overview](#overview)
+2. [Script Breakdown](#script-breakdown)
+   - [Signal Generation](#signal-generation)
+   - [Filter Design](#filter-design)
+   - [Filtering and Recovery](#filtering-and-recovery)
+   - [Visualization](#visualization)
+3. [How to Use](#how-to-use)
+4. [Results](#results)
+   - [Time Domain Analysis](#time-domain-analysis)
+   - [Frequency Domain Analysis](#frequency-domain-analysis)
+5. [Example Plots](#example-plots)
+6. [Output Analysis](#output-analysis)
+   - [Figure 1: Time Domain Analysis](#figure-01-time-domain-analysis)
+   - [Figure 2: Frequency Domain Analysis](#figure-2-frequency-domain-analysis)
+7. [Conclusion](#conclusion)
+
+
 ## Overview
 
 The signal processing workflow includes:
