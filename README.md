@@ -16,7 +16,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 ### **Lab 02: Simulation of Communication Systems**
 - Simulation of basic communication systems using MATLAB.
 - Topics include modulation, filtering, and Fourier Transform analysis.
-- Resources and task files are available in the `Lab 02` folder.
+- Resources and task files are available in the `Lab_2_Simulation_of_Communication_System` folder.
 
 More labs will be added as the semester progresses.
 
