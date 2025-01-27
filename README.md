@@ -18,6 +18,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 - Topics include modulation, filtering, and Fourier Transform analysis.
 - Resources and task files are available in the `Lab_2_Simulation_of_Communication_System` folder.
 
+### **Lab 03: Sampling of Voice Signals and its Analysis in Frequency Domain
+- Sampling of voice signals and frequency domain analysis.
+- Application of Nyquist Theorem and aliasing effects.
+- Signal reconstruction and visualization in MATLAB.
+
 More labs will be added as the semester progresses.
 
 ---
