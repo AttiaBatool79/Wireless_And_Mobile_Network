@@ -123,6 +123,5 @@ title('Interpolation Factor = 8')
 
 ---
 
-## **Author**
-This lab manual is maintained by **[Your Name]**. Feel free to connect on **[LinkedIn](#)** or reach out via email: **your.email@example.com**.
+
 
