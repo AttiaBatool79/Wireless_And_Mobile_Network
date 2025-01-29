@@ -17,6 +17,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 - Simulation of basic communication systems using MATLAB.
 - Topics include modulation, filtering, and Fourier Transform analysis.
 - Resources and task files are available in the `Lab_2_Simulation_of_Communication_System` folder.
+  
 
 ### **Lab 03: Sampling of Voice Signals and its Analysis in Frequency Domain**
 - Sampling of voice signals and frequency domain analysis.
