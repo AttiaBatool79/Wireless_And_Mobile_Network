@@ -1,4 +1,4 @@
-# **Lab Manual No 03: Sampling of Voice Signals and its Analysis in Frequency Domain**
+# **Lab No 03: Sampling of Voice Signals and its Analysis in Frequency Domain**
 
 ## **Objective**
 Digital Signal Processing starts with converting analog signals into digital signals. The first step is **sampling** the original signal. The amount of processing required depends on the **sampling rate** and **coding procedure**. A **higher sampling rate** improves quality but increases data load, while a **lower rate** reduces data but risks **aliasing**. The **Nyquist limit** defines the minimum sampling rate. This lab focuses on understanding the **sampling process**, aliasing effects, and signal reconstruction.
