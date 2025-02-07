@@ -113,15 +113,9 @@ title('Interpolation Factor = 8')
 
 ---
 
-## **How to Use**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Lab_Manuals.git
-   cd Lab_Manual_03
-   ```
-2. Run MATLAB scripts to analyze the effects of sampling, aliasing, and interpolation.
 
----
+
+
 
 
 
