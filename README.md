@@ -6,30 +6,23 @@ This repository is maintained by [Attia Batool](#).
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-batool) or reach out via email: attia.computerengineer079@gmail.com.
 
 ---
-
-## Lab Contents
+## **Lab Contents**
 ### **Lab 01: Basics of MATLAB for Communication Systems**
 - Introduction to MATLAB environment and basic commands.
 - Signal generation and visualization in time and frequency domains.
-- Resources and practical implementations are available in the `Lab 01` folder.
+- Resources and practical implementations are available in the `Lab_01` folder.
 
 ### **Lab 02: Simulation of Communication Systems**
 - Simulation of basic communication systems using MATLAB.
 - Topics include modulation, filtering, and Fourier Transform analysis.
-- Resources and task files are available in the `Lab_2_Simulation_of_Communication_System` folder.
-  
+- Resources and task files are available in the `Lab_02_Simulation_of_Communication_System` folder.
 
 ### **Lab 03: Sampling of Voice Signals and its Analysis in Frequency Domain**
 - Sampling of voice signals and frequency domain analysis.
 - Application of Nyquist Theorem and aliasing effects.
 - Signal reconstruction and visualization in MATLAB.
 
-More labs will be added as the semester progresses.
-
----
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AttiaBatool79/Wireless_And_Mobile_Network.git
-   cd Wireless_And_Mobile_Network
+### **Lab 04: Sampling Theorem Implementation**
+- Implementation of Nyquist Sampling Theorem using MATLAB.
+- Analysis of under-sampling, over-sampling, and aliasing effects.
+- Practical demonstration of impulse and natural sampling.
