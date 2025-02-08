@@ -13,12 +13,12 @@ The sampling theorem states that a band-limited signal **x(t)** with bandwidth *
 
 A continuous-time (CT) sinusoid containing a maximum frequency of **Fmax** must be sampled at **Fs > 2Fmax** (Nyquist Rate) to avoid aliasing. If **Fs** is greater than the Nyquist Rate, the CT sinusoid can be uniquely recovered from its discrete-time (DT) version.
 
-## 🌟 Importance of Sampling  
+## Importance of Sampling  
 - Sampling is a fundamental concept in **digital signal processing (DSP)**, enabling real-world signals to be processed by digital systems. 
 - It is essential in **communications, audio processing, biomedical engineering, and control systems**.  
 - Proper sampling ensures **accurate signal reconstruction**, avoiding aliasing and distortion.
 
-## 🔧 Applications  
+## Applications  
 Sampling has widespread applications in various fields, including:  
 - **Telecommunications** – Digital voice transmission (VoIP, mobile networks).  
 - **Audio Processing** – Converting analog sound to digital formats (MP3, WAV).  
