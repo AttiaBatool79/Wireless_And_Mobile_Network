@@ -27,3 +27,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 - Analysis of under-sampling, over-sampling, and aliasing effects.
 - Practical demonstration of impulse and natural sampling.
 - Resources and task files are available in the `Lab_4_Sampling_Theorem_Implementation` folder.
+
+### **Lab 05: Time Division Multiple Access (TDMA)**
+- Implementation of TDMA in MATLAB and Simulink.  
+- Analysis of time-slot allocation and signal transmission.  
+- Resources and task files are available in the Lab_5_Time_Division_Multiple_Access_(TDMA) folder.  
+
