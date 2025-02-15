@@ -31,5 +31,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 ### **Lab 05: Time Division Multiple Access (TDMA)**
 - Implementation of TDMA in MATLAB and Simulink.  
 - Analysis of time-slot allocation and signal transmission.  
-- Resources and task files are available in the Lab_5_Time_Division_Multiple_Access_(TDMA) folder.  
+- Resources and task files are available in the `Lab_5_Time_Division_Multiple_Access_(TDMA)` folder.  
 
