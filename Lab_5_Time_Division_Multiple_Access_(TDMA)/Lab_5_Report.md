@@ -74,9 +74,12 @@ The TDMA Simulink model consists of multiple components, including signal genera
 ---
 
 ## **Files in This Repository**
-- `TDMA_Simulink_Model.slx` → Simulink model for TDMA implementation.
-- `TDMA_Analysis_Report.md` → Detailed explanation and observations.
-- `TDMA_Results.png` → Screenshots of input/output signals.
+- `TDMA.slx` → Simulink model for TDMA implementation.
+- `Lab_5__Report.md` → Detailed explanation and observations.
+- `TDMA.png` → Screenshot of implementation of TDMA.
+- `TDMA_Input01.png` → Screenshot of input SINE signals for all 4 users.
+- `TDMA_Input02.png` → Screenshot of input Pulse signals( allocated time slots for ecah 4 users).
+- `TDMA_Results.png` → Screenshots of output signals.
 
 ---
 
