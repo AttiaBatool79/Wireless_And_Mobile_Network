@@ -36,6 +36,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 ### **Lab 06: Frequency Division Multiple Access (FDMA)**
 - Implementation of FDMA in MATLAB and Simulink.  
 - Analysis of frequency-band allocation and signal transmission.  
-- Resources and task files are available in the Lab_6_Frequency_Division_Multiple_Access_(FDMA) folder.  
+- Resources and task files are available in the `Lab_6_Frequency_Division_Multiple_Access_(FDMA)` folder.  
 
 
