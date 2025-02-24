@@ -130,6 +130,7 @@ title('Received Information');
 ## Files in This Repository
 - `QPSK.m` → MATLAB script for QPSK modulation & demodulation.
 - `QPSK_Modulated.png` → Screenshot of QPSK signal.
+- `QPSK_Transmitted.png` → Screenshot of transmitted data.
 - `QPSK_Received.png` → Screenshot of received data after demodulation.
 
 ## Conclusion
