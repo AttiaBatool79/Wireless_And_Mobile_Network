@@ -36,6 +36,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/attia-bat
 ### **Lab 06: Frequency Division Multiple Access (FDMA)**
 - Implementation of FDMA in MATLAB and Simulink.  
 - Analysis of frequency-band allocation and signal transmission.  
-- Resources and task files are available in the `Lab_6_Frequency_Division_Multiple_Access_(FDMA)` folder.  
+- Resources and task files are available in the `Lab_6_Frequency_Division_Multiple_Access_(FDMA)` folder.
+
+### **Lab 07: Quadrature Phase Shift Keying (QPSK) Modulation and Demodulation**
+- Understanding QPSK in digital communication.
+- Implementation of QPSK modulation and demodulation using MATLAB.
+- Visualization of data modulation and recovery.
+- Resources and task files are available in the `Lab_7_Quadrature_Phase_Shift_Keying_QPSK` folder.
+---
 
 
