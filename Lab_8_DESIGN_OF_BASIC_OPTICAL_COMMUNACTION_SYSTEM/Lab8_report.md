@@ -37,7 +37,7 @@ This simulation models a simple but realistic fiber-optic communication system. 
 
 ---
 
-## 🔍 How This System Works (Step-by-Step)
+## How This System Works (Step-by-Step)
 
 ### 1️⃣ Data Generation
 - A **PRBS (Pseudo-Random Bit Sequence Generator)** generates random bits (0s and 1s) to simulate real-world data.
@@ -69,7 +69,7 @@ This simulation models a simple but realistic fiber-optic communication system. 
 
 ---
 
-## 📈 Q-Factor & Eye Diagram Explanation
+## Q-Factor & Eye Diagram Explanation
 
 ### What is Q-Factor?
 - The **Q-Factor** is a measure of signal quality.
@@ -89,7 +89,7 @@ If **Q = 8**, it means:
 
 ---
 
-## ⚙️ Parameter Effect Summary
+## Parameter Effect Summary
 
 | Parameter                 | Change                    | Effect on Q-Factor           |
 |--------------------------|---------------------------|------------------------------|
@@ -117,6 +117,6 @@ This project demonstrates how digital data is encoded, converted to light, trans
 
 ## Follow Me  
 For more simulation insights and digital communication projects:  
-📲 **Follow me on LinkedIn**  
-🤝 Let's connect and grow in the world of tech & telecom! 🚀  
+ **Follow me on LinkedIn**  
+
 
