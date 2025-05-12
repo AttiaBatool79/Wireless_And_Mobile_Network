@@ -102,11 +102,11 @@ If **Q = 8**, it means:
 ---
 
 ## Files in This Repository  
-- **optical_fiber_system.osd** → OptiSystem simulation file  
-- **system_block_diagram.png** → Block diagram of setup  
-- **eye_diagram_result.png** → Result image of Eye Diagram  
-- **ber_output.png** → Screenshot of BER Analyzer  
-- **readme.md** → This documentation  
+- **Project 1.osd** → OptiSystem simulation file  
+- **optical spectrum analyzer.png** → study signal in frequency domain in optical. 
+- **BER Analyzer result.png** → Screenshot of BER Analyzer 
+- **main diagram.png** → actual design picture.
+- **Lab8_report.md** → This documentation  
 
 ---
 
