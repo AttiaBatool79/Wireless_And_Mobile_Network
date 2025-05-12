@@ -1,4 +1,4 @@
-# Optical Fiber Communication System Simulation
+# Lab #08: Optical Fiber Communication System Simulation
 
 ## Title  
 **Design and Analysis of an Optical Fiber Communication System using NRZ Encoding, Mach-Zehnder Modulator, and Performance Evaluation Tools**
